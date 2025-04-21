@@ -1,0 +1,28 @@
+{
+    "itemNameKey": "TestDrawing.Paper.name",
+    "itemDescriptionKey": "TestDrawing.Paper.desc",
+    "itemType": "GENERAL",
+    "itemSubtype": "TRINKET",
+    "sprite": "TestDrawing.Paper.drawing",
+    "itemColor": {
+        "r": 55,
+        "g": 55,
+        "b": 55,
+        "a": 255
+    },
+    "value": 1,
+    "dimensions": [
+        "X"
+    ],
+    "damageMode": "DESTROY",
+    "harvestMinigameType": "DREDGE_RADIAL",
+    "perSpotMin": 1,
+    "perSpotMax": 1,
+    "harvestPOICategory": "TRINKET",
+    "harvestableType": "DREDGE",
+    "harvestDifficulty": "VERY_EASY",
+    "canBeCaughtByRod": true,
+    "canBeCaughtByNet": true,
+    "canBeCaughtByPot": true
+}
+
