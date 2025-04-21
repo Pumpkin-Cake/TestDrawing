@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup>
+		<DredgePath>D:\SteamLibrary\steamapps\common\DREDGE</DredgePath>
+		<OutputPath>$(DredgePath)\Mods\Pumpkin-Cake.TestDrawing</OutputPath>
+	</PropertyGroup>
+</Project>

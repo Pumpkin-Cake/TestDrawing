@@ -1,9 +1,9 @@
 {
-	"Author": "YourName",
-	"Name": "Winch Mod Template",
-	"ModGUID": "YourName.WinchModTemplate",
+	"Author": "Pumpkin-Cake",
+	"Name": "Test Drawing",
+	"ModGUID": "Pumpkin-Cake.TestDrawing",
 	"Version": "0.0.1",
-	"ModAssembly": "WinchModTemplate.dll",
-	"MinWinchVersion": "0.4.0",
-	"Entrypoint": "WinchModTemplate.Loader/Initialize"
+	"ModAssembly": "TestDrawing.dll",
+	"MinWinchVersion": "0.6.0",
+	"Entrypoint": "TestDrawing.Loader/Initialize"
 }
