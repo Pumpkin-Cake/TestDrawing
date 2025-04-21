@@ -3,7 +3,7 @@
     "itemDescriptionKey": "TestDrawing.Paper.desc",
     "itemType": "GENERAL",
     "itemSubtype": "TRINKET",
-    "sprite": "TestDrawing.Paper.drawing",
+    "sprite": "TestDrawing.Paper",
     "itemColor": {
         "r": 55,
         "g": 55,
