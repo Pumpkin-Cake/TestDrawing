@@ -34,7 +34,6 @@
   </ItemGroup>
 	  
   <ItemGroup>
-	  <Folder Include="Assets\Items\" />
 	  <Folder Include="Assets\Localization\" />
 	<Folder Include="Assets\POI\" />
 	<Folder Include="Assets\Textures\" />
